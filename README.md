@@ -1,5 +1,4 @@
-- 👋 Hi, I'm Oreng! I'm an aspiring software engineer based in Essex, GB with a growing proficiency in Python, Django, Flask, and web development tools, and a keen interest in cybersecurity. I'm currently expanding my skills through further studies in programming, aiming to build a solid career in software engineering. This more or less serves as a portfolio/ progress diary of sorts, so feel free to have a look at my work and don't be afraid to get in touch with any advice or tips!
-
+👋 Hi, I'm Oreng, an aspiring software engineer from Essex, GB, with growing skills in Python, Django, Flask, and web development, and a strong interest in cybersecurity. I'm currently advancing my programming knowledge and building a career in software engineering. Feel free to explore my work and reach out with any advice or tips!
 - 🔧 Skills - Python, Django, Flask, Streamlit, Jupyter Lab, Heroku, SQL
 - 🎯 In terms of objective, I'm seeking an apprenticeship in software engineering to apply my skills, learn, and grow.
 - 👀 I’m interested in cybersecurity, web development, data analysis and game development
