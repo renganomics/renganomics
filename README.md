@@ -2,7 +2,7 @@
 - 🔧 Skills - Python, Django, Flask, Streamlit, Jupyter Lab, Heroku, SQL
 - 🎯 In terms of objective, I'm seeking an apprenticeship in software engineering to apply my skills, learn, and grow.
 - 👀 I’m interested in cybersecurity, web development, data analysis and game development
-- 🌱 I’m currently learning web development and cybersecurity
+- 🌱 I’m currently learning web development using Python
 - 📫 You can reach me through my personal email - orengasi@gmail.com
 - 😄 Pronouns - He/Him
 - ⚡ Fun fact - I'm a MASSIVE Zelda fan, and the series was actually what sparked my interest in programming, specifically game development!
